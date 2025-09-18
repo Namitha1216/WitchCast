@@ -9,8 +9,7 @@ An app that returns the probability of "very hot / very cold / very windy / very
 - Figma wireframes: `docs/figma-link` 
 - Poster draft: `docs/poster.png`
 
-## How to run (Phase 1)
-Open the Colab notebook in `/notebooks` and run the cells.
+
 
 ## Team roles
 - Member A (Amina) — Data, pipelines & scripts
